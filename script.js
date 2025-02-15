@@ -1,25 +1,15 @@
 const messages = [
-    "Emin misin?",
-    "Gerçekten emin misin??",
-    "Kesin mi?",
-    "Pookie lütfen...",
-    "Bir daha düşün!",
-    "Hayır dersen çok üzüleceğim...",
-    "Çoooook üzüleceğim...",
-    "Ama gerçekten çooook üzüleceğim...",
-    "Tamam, artık sormayacağım...",
-    "Şaka yaptım! Lütfen evet de! ❤️",
-    "Sonsuza kadar pişman olabilirsin...",
-    "Beni gerçekten böyle bırakacak mısın?",
-    "İçinden bir ses 'evet' diyor, duyuyorum!",
-    "Bir bak, belki fikrini değiştirirsin!",
-    "Bak, sana güveniyorum...",
-    "Eğer evet dersen, dünyanın en mutlu insanı olurum!",
-    "Hayır mı? Yok artık...",
-    "Lütfen, son bir kez düşün!",
-    "Yemin ederim bir daha sormam... belki.",
-    "Gerçekten 'hayır' mı? Son kararın mı?",
-    "Üzülürüm ama saygı duyarım... belki de duymam."
+    "Emin misin?",  
+    "Gerçekten emin misin??",  
+    "Kesin misin?",  
+    "Bebiş lütfen...",  
+    "Bir daha düşün!",  
+    "Hayır dersen gerçekten çok üzüleceğim...",  
+    "Çok üzüleceğim...",  
+    "Çok çok çok üzüleceğim...",  
+    "Tamam, peki, sormayı bırakıyorum...",  
+    "Şaka yaptım, lütfen evet de! ❤️"  
+
 ];
 
 let messageIndex = 0;
